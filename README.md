@@ -1,4 +1,5 @@
-# Series Paralelas
+# Series Paralelas -- 
+Jaider Daniel Ortega Ascanio-192579 
 
 **Segundo Parcial — Programación I (Java)**  
 **Tema:** Arreglos + funciones dentro de una sola clase  
